@@ -17,7 +17,7 @@ const appID = "b2656396d43b4fd984f93865f98a6a2f";
 // Pass the channel name you filled in to generate the temporary token.
 var channel = "hennyAndroid";
 // Pass your temporary token.
-var token = "007eJxTYPBhvP3rhLJj58ksnmeTewXbH3tfntKwJvqt0vdVCxXTX8opMCQZmZmaGVuapZgYJ5mkpVhamKRZGluYmaZZWiSaJRqleVUwpjYEMjJM1/3KxMgAgSA+D0NGal5epWNeSlF+ZgoDAwCQQyLu";
+var token = "007eJxTYKiSScha5ff2+347yevqoUv7ntUdm+uzzd1hkxfnhlfm6ZcVGJKMzEzNjC3NUkyMk0zSUiwtTNIsjS3MTNMsLRLNEo3S1CuZUhsCGRkeHNjCwAiFID4PQ0ZqXl6lY15KUX5mCgMDAHUhIu4=";
 // A variable to save the ID of the remote user.
 let remoteUID;
 // Local user ID.
