@@ -15,9 +15,9 @@ let remoteVideoContainer;
 // Pass your App ID here.
 const appID = "b2656396d43b4fd984f93865f98a6a2f";
 // Pass the channel name you filled in to generate the temporary token.
-var channel = "hennyAndroid";
+var channel = "cloudrecord";
 // Pass your temporary token.
-var token = "007eJxTYKiSScha5ff2+347yevqoUv7ntUdm+uzzd1hkxfnhlfm6ZcVGJKMzEzNjC3NUkyMk0zSUiwtTNIsjS3MTNMsLRLNEo3S1CuZUhsCGRkeHNjCwAiFID4PQ0ZqXl6lY15KUX5mCgMDAHUhIu4=";
+var token = "007eJxTYCgVUNxz1TO1zy7lAbeazelPsjYGT1nc0tv85J6ddzkzsUWBIcnIzNTM2NIsxcQ4ySQtxdLCJM3S2MLMNM3SItEs0ShNR5EltSGQkWGpaj0LIwMEgvjcDMk5+aUpRanJ+UUpDAwAWlIfGg==";
 // A variable to save the ID of the remote user.
 let remoteUID;
 // Local user ID.
