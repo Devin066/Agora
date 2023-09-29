@@ -20,11 +20,11 @@ import io.agora.rtc2.ChannelMediaOptions;
 
 public class MainActivity extends AppCompatActivity {
     // Fill the App ID of your project generated on Agora Console.
-    private final String appId = "b2656396d43b4fd984f93865f98a6a2f";
+    private final String appId = "";
     // Fill the channel name.
-    private String channelName = "hennyAndroid";
+    private String channelName = "";
     // Fill the temp token generated on Agora Console.
-    private String token = "007eJxTYJDxe77ssdrNddc8Zj+/kq0aMk9iU+brrMkM27KUmBx/rk5TYEgyMjM1M7Y0SzExTjJJS7G0MEmzNLYwM02ztEg0SzRK42f/n9IQyMiwo+gnCyMDBIL4PAwZqXl5lY55KUX5mSkMDACK1iMi";
+    private String token = "";
     // An integer that identifies the local user.
     private int uid = 0;
     private boolean isJoined = false;
