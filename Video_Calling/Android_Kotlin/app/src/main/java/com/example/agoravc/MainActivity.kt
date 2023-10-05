@@ -20,11 +20,11 @@ import io.agora.rtc2.ChannelMediaOptions
 
 class MainActivity : AppCompatActivity() {
     // Fill the App ID of your project generated on Agora Console.
-    private val appId = ""
+    private val appId = "b43e332077fa4dd281bfd7ea1ee0eb45"
     // Fill the channel name.
-    private var channelName = ""
+    private var channelName = "testa"
     // Fill the temp token generated on Agora Console.
-    private val token = ""
+    private val token = "007eJxTYHjOzR54bdpP0c0b3geZc868uylTaOaJE+zJAbGOG8r7lesUGJKMzEzNjC3NUkyMk0zSUiwtTNIsjS3MTNMsLRLNEo3S5v+WTm0IZGTI3/6bmZEBAkF8VoaS1OKSRAYGAFMhH/M="
     // An integer that identifies the local user.
     private val uid = 0
     private var isJoined = false
